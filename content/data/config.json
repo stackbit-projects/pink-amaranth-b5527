@@ -17,12 +17,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
